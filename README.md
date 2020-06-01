@@ -1,7 +1,9 @@
 # CLUSTER
+EN_philosophy.xlsx shows original wiki data, data after negated using antonyms and after applying backtranslation
+
 
 Input
-
+      
       Sample data in Train-data
       create a dataset folder inside pybert
       create a raw folder inside dataset
